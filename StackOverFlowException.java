@@ -1,4 +1,4 @@
-package ca.bcit.cst.comp2522.a3;
+//add your own package to start.
 
 /**
  * The type Stack over flow exception.
